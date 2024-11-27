@@ -1,16 +1,41 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import Navbar from "@/components/layout/Navbar";
 
-const geistSans = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist-sans",
-  weight: "100 900",
-});
-const geistMono = localFont({
-  src: "./fonts/GeistMonoVF.woff",
-  variable: "--font-geist-mono",
-  weight: "100 900",
+const futura = localFont({
+  src: [
+    {
+      path: "./fonts/FuturaStdLight.otf",
+      weight: "400",
+      style: "normal",
+    },
+    {
+      path: "./fonts/FuturaStdMedium.otf",
+      weight: "500",
+      style: "normal",
+    },
+    {
+      path: "./fonts/FuturaStdBook.otf",
+      weight: "600",
+      style: "normal",
+    },
+    {
+      path: "./fonts/FuturaStdHeavy.otf",
+      weight: "700",
+      style: "normal",
+    },
+    {
+      path: "./fonts/FuturaStdBold.otf",
+      weight: "800",
+      style: "normal",
+    },
+    {
+      path: "./fonts/FuturaStdExtraBold.otf",
+      weight: "900",
+      style: "normal",
+    },
+  ],
 });
 
 export const metadata: Metadata = {
@@ -25,9 +50,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
+      <body className={futura.className}>
+        <Navbar />
         {children}
       </body>
     </html>

@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        futura: ['Futura Std', 'sans-serif'],
+      },
       colors: {
         background: "#010D0D", // Dark background color
         foreground: "var(--foreground)", // Variable for foreground color

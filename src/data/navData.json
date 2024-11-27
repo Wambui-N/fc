@@ -1,0 +1,48 @@
+{
+    "Navigation": {
+        "Projects": [
+            {
+                "title": "Wildlife Conservancy Planning",
+                "image": "https://images.pexels.com/photos/11932165/pexels-photo-11932165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "title": "Eco-Tourism Development",
+                "image": "https://images.pexels.com/photos/11932165/pexels-photo-11932165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "title": "National Park Monitoring",
+                "image": "https://images.pexels.com/photos/11932165/pexels-photo-11932165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "title": "Climate Impact Assessments",
+                "image": "https://images.pexels.com/photos/11932165/pexels-photo-11932165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "title": "Community Capacity Building",
+                "image": "https://images.pexels.com/photos/11932165/pexels-photo-11932165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "title": "Digital Conservation Campaigns",
+                "image": "https://images.pexels.com/photos/11932165/pexels-photo-11932165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            }
+        ],
+        "Services": [
+            {
+                "title": "Environmental & Conservation Management",
+                "image": "https://images.pexels.com/photos/11932165/pexels-photo-11932165.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "title": "Tourism & Business Development",
+                "image": "https://images.pexels.com/photos/28977875/pexels-photo-28977875/free-photo-of-graceful-impala-in-nanyuki-woodland.jpeg?auto=compress&cs=tinysrgb&w=600"
+            },
+            {
+                "title": "Institutional Development",
+                "image": "https://images.pexels.com/photos/1423655/pexels-photo-1423655.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            },
+            {
+                "title": "Professional Documentation & Communication",
+                "image": "https://images.pexels.com/photos/261679/pexels-photo-261679.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            }
+        ]
+    }
+}

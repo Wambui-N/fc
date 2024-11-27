@@ -1,0 +1,74 @@
+{
+    "Services": [
+        {
+            "EnvironmentalAndConservationManagement": {
+                "EnvironmentalImpactAssessments": {
+                    "FullReportDevelopment": "Full EIA report development and documentation",
+                    "ImpactAnalysis": "Pre and post-implementation impact analysis",
+                    "MonitoringFrameworks": "Monitoring and evaluation frameworks"
+                },
+                "ProtectedAreaManagement": {
+                    "ManagementPlans": "Conservation area management plans",
+                    "EcosystemMonitoring": "Ecosystem monitoring strategies",
+                    "ResourceAssessment": "Natural resource assessment protocols"
+                },
+                "SpatialAnalysisAndMapping": {
+                    "ResourceMapping": "Natural resource mapping and analysis",
+                    "LandCoverAssessment": "Land cover assessment and documentation",
+                    "DataVisualization": "Data interpretation and visualization"
+                }
+            },
+            "TourismAndBusinessDevelopment": {
+                "ProjectPlanning": {
+                    "NewVentureDesign": "New venture conceptualization and design",
+                    "BusinessPlanDevelopment": "Business plan development",
+                    "FinancialModeling": "Financial modeling and feasibility studies"
+                },
+                "TourismOperations": {
+                    "CustomerServicePrograms": "Customer service excellence programs",
+                    "ServiceQualityAssessment": "Service quality assessment and reporting",
+                    "MarketingStrategy": "Marketing and sales strategy development"
+                }
+            },
+            "InstitutionalDevelopment": {
+                "StrategicPlanning": "Strategic planning facilitation",
+                "PolicyFrameworks": "Policy framework development",
+                "CapacityBuilding": "Organizational capacity building"
+            },
+            "ProfessionalDocumentationAndCommunication": {
+                "TechnicalWriting": {
+                    "Reports": "Environmental and scientific reports",
+                    "Proposals": "Project proposals and grant applications",
+                    "PolicyDocuments": "Policy documents and institutional reports"
+                },
+                "ContentDevelopmentAndMarketing": {
+                    "WebsiteContent": "Website and digital content creation",
+                    "EmailMarketing": "Email marketing campaigns",
+                    "SocialMediaStrategy": "Social media strategy and management"
+                },
+                "ConservationStorytelling": {
+                    "AwarenessCampaigns": "Environmental awareness campaigns",
+                    "BlogDevelopment": "Conservation blog development",
+                    "NewsletterProduction": "Digital newsletter production"
+                }
+            },
+            "TrainingAndCapacityBuilding": {
+                "EnvironmentalManagement": {
+                    "ResourceManagement": "Natural resource management techniques",
+                    "MonitoringProtocols": "Environmental monitoring protocols",
+                    "BestPractices": "Conservation best practices"
+                },
+                "ResearchAndAnalysis": {
+                    "DataCollection": "Data collection methodologies",
+                    "AnalysisAndInterpretation": "Analysis and interpretation",
+                    "ReportWriting": "Report writing and presentation"
+                },
+                "DigitalCommunications": {
+                    "ContentStrategy": "Content strategy development",
+                    "SocialMediaManagement": "Social media management",
+                    "DigitalMarketing": "Digital marketing essentials"
+                }
+            }
+        }
+    ]
+}

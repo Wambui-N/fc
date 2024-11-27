@@ -1,0 +1,41 @@
+{
+    "Projects": [
+      {
+        "title": "Community Wildlife Conservancy Management Plan",
+        "description": "Developed a comprehensive management plan for a community-based wildlife conservancy, focusing on sustainable resource use and conservation strategies.",
+        "category": "Environmental Management",
+        "year": 2023
+      },
+      {
+        "title": "Tourism Development Feasibility Study",
+        "description": "Conducted a feasibility study and financial modeling for a new eco-tourism lodge in a protected area.",
+        "category": "Tourism Development",
+        "year": 2022
+      },
+      {
+        "title": "National Park Ecosystem Monitoring Program",
+        "description": "Designed and implemented an ecosystem monitoring strategy for a national park to track biodiversity changes.",
+        "category": "Protected Area Management",
+        "year": 2021
+      },
+      {
+        "title": "Technical Report on Climate Impact Assessment",
+        "description": "Authored a detailed report assessing the impacts of climate change on a coastal ecosystem.",
+        "category": "Technical Writing",
+        "year": 2023
+      },
+      {
+        "title": "Social Media Awareness Campaign for Conservation",
+        "description": "Developed and managed a digital campaign to raise awareness about wildlife conservation among local communities.",
+        "category": "Digital Communications",
+        "year": 2022
+      },
+      {
+        "title": "Training Workshop on Environmental Monitoring",
+        "description": "Facilitated a capacity-building workshop for local stakeholders on effective environmental monitoring techniques.",
+        "category": "Training and Capacity Building",
+        "year": 2021
+      }
+    ]
+  }
+  

@@ -2,8 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
-  body{
-    @apply bg-background text-white
+@layer base {
+  body {
+    @apply font-futura bg-background text-white;
+  }
+}
+
+@layer utilities {
+  .responsive {
+    @apply px-16 py-6;
   }
 }
